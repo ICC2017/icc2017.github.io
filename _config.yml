@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Introducción a las Ciencias de la Computación
+name: Curso de Introducción a las Ciencias de la Computación
 
 # Short bio or description (displayed in the header)
 description: Lic. en Cs. de la Computación de la Universidad de Sonora
@@ -21,7 +21,7 @@ footer-links:
   email: juanpablo.soto@unison.mx
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: jpsotob/ICC2017
   instagram:
   linkedin:
   pinterest:
