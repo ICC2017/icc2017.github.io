@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Bienvenidos al blog de los estudiantes de nuevo ingreso de la LCC 2017-2!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+El objetivo de este blog es que los estudiantes de nuevo ingreso compartan su experiencia en el tiempo que tienen en LCC. Es decir, que les ha gustado, cuáles son sus espectativas, retos, etc.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
