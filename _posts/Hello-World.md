@@ -7,4 +7,4 @@ El objetivo de este blog es que los estudiantes de nuevo ingreso compartan sus e
 
 ![_config.yml]({{ site.baseurl }}/images/alumnos2017.png)
 
-Para poder crear una entrada al blog. Accede a /_posts/ y crea tu blog basándote en uno de los archivos que aparezcan ahí (por ejemplo: 2014-3-3-Hello-World.md). Para más detalles accede a [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Para poder crear una entrada al blog. Accede a /_posts/ y crea tu blog basándote en uno de los archivos que ahí encontrarás (por ejemplo: 2014-3-3-Hello-World.md). Para más detalles accede a [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
