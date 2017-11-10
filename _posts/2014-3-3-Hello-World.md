@@ -3,7 +3,7 @@ layout: post
 title: Bienvenidos al blog de los estudiantes de nuevo ingreso de la LCC 2017-2!
 ---
 
-El objetivo de este blog es que los estudiantes de nuevo ingreso compartan su experiencia en el tiempo que tienen en LCC. Es decir, que les ha gustado, cuáles son sus espectativas, retos, etc.
+El objetivo de este blog es que los estudiantes de nuevo ingreso compartan sus experiencias, opinión sobre la carrera, anécdotas vividas durante su primer semestre, etc. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
