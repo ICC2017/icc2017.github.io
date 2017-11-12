@@ -5,12 +5,15 @@ title: Viaje de regreso a mi ciudad
 
 Venir aquí a Hermosillo me ha enseñado mucho, he aprendido a valorar muchas cosas y entre ellas está la 
 tranquilidad de mi ciudad, Cananea.
+
 Para muchos Cananea es un "pueblo minero", pero en total honestidad es una ciudad pequeña que
 tiene una mina de cobre.
 
 No nos encontramos osos en las calles y no vivimos en medio de la nieve tampoco, solo es una ciudad
 pequeña, no es un mítico lugar en medio de la nada.
+
 Sin embargo, en ese lugar me criaron, y para mí, ésa es mi ciudad. Y la extraño constantemente.
+
 
 El mejor recuerdo que tengo de Cananea fue durante mi primer viaje en camión, ya que me gusta viajar
 del lado de la ventana, cuando empezó a bajar el Sol, pude ver los colores que pintaban el cielo de rosa,
