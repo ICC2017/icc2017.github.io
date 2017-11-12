@@ -1,6 +1,7 @@
+
 ---
 layout: post
-title: Viajes de regreso a mi ciudad
+title: Viaje de regreso a mi ciudad
 ---
 
 Venir aquí a Hermosillo me ha enseñado mucho, he aprendido a valorar muchas cosas y entre ellas está la 
@@ -18,8 +19,9 @@ amarillo y violeta.
 
 ![_config.yml]({{site.baseurl }}/images/atardecer_cmlb.jpg)
 
-Tomé una foto en la cual se podían ver a la perfección estos colores, esta imágen se convirtió en una
+Tomé una foto en la cual se podían ver a la perfección estos colores, ésta imágen se convirtió en una
 de muchas que he tomado a lo largo de mis viajes a Cananea, cada una más significativa que la otra.
+
 Aunque claro, todo esto es visto a traves de los ojos de una foránea que está a tres horas de su hogar,
 viviendo en una ciudad muy grande a comparación, pero que no es lo suficientemente grande como para
 albergar su esperanza y satisfacer sus sueños. Para eso tendré que encontrar una ciudad más grande.
