@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post: Primer dia de clases
+title: Primer dia de clases
 ---
 
 ![_config.yml]({{site.baseurl }}/images/Cs-exactas-Thmn.jpg)
