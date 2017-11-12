@@ -1,0 +1,13 @@
+----
+layout: post
+title: Primer dia de clases
+----
+
+![_config.yml]({{site.baseurl }}/images/Cs-exactas-Thmn.jpg)
+
+El primer dia de clases no tuve un poco de problema para encontrar el edificio donde me darian
+clases,cuando llegué el salon ya abia gente pero no venia ningun maestro,entre y me sente en una de las esquinas del salon hasta el fondo
+luego entro an vato nos dijo que era nuestro maestro y nos estava diciendo
+que esta era una carrera muy difivil y que muchos de nosotros no la ivamos a hacer, 
+pero termino siendo una prank porque a los 20 minutos entro el profe de verdad
+y el otro se fue y el resto del dia termino siendo normal y tranquilo.
