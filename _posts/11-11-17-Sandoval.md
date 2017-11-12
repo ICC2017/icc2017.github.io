@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primer dia en una ciudad nueva
+title: Primer día en una ciudad nueva
 ---
 
 El primer día de clases fue más dramático de lo usual, ya que no solo debía acostumbrarme a un nuevo ambiente de estudio, sino también a una nueva ciudad completa tan grande como lo es Hermosillo.
@@ -12,4 +12,6 @@ Quien hubiera pensado que el número del edificio pudiera estar escondido atrás
 
 
 ![_config.yml]({{site.baseurl }}/images/UniversidaddeSonora1_Carrusel.jpg)
+
+Sandoval del Hoyo María Ximena
 
