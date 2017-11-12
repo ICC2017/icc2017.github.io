@@ -11,7 +11,7 @@ Quien hubiera pensado que el número del edificio pudiera estar escondido atrás
 
 
 
-![_config.yml]({{site.baseurl }}/images/UniversidaddeSonora1_Carrusel.jpg)
+
 
 Sandoval del Hoyo María Ximena
 
