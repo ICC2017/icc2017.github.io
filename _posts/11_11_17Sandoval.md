@@ -9,5 +9,7 @@ No basto solo con no conocer completamente el nuevo lugar donde vivía, sino tam
 
 Quien hubiera pensado que el número del edificio pudiera estar escondido atrás de un árbol.
 
+
+
 ![_config.yml]({{site.baseurl }}/images/UniversidaddeSonora1_Carrusel.jpg)
 
