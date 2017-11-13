@@ -1,0 +1,13 @@
+---
+layout: post
+title: Primer dia de clases
+---
+
+![_config.yml]({{site.baseurl }}/images/Cs-exactas-Thmn.jpg)
+
+En mi primer dia de clases recuerdo que me perdi y no encontraba mi edificio, fui a dar hasta electronica 
+y me dijeron que mi edificio estaba hasta el otro lado de la uni, despues llegue al salon y 
+vi que no habia nadie, asi que me quede afuera hasta que vi gente entrando, reconoci a algunas personas de la preparatoria
+pero no les hable, en la primera clase nos hicieron una novatada en la que alguien se hizo pasar por un maestro, el cual
+nos dijo que la carrera estaba dificil y que nadie la hiba a hacer, y luego llego el verdadero maestro y el resto del dia fue muy
+tranquilo y normal.
