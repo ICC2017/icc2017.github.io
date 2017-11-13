@@ -3,7 +3,7 @@ layout: post
 title: Mi experiencia
 ---
 
-Cuando me enteré que me habían aceptado, recuerdo haber visto el que sería nuestro horario para el semestre y sentirme un poco intimidada por las materias
+Cuando me enteré que me habían aceptado, recuerdo haber visto el que sería nuestro horario para el semestre y sentirme un poco intimidada por las materias.
 Sabía que la carrera estaría muy cargada de matemáticas, y en parte era una de las razones por las que me inclinaba más a ésta que mis otras opciones,
 mas sin embargo, verlo como algo definitivo ocasionó que me volviera un manojo de nervios aquel día, preguntándome si realmente podría y tratando de asimilar lo que me esperaba.
 
