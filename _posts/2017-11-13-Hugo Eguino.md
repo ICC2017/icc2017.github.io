@@ -1,3 +1,6 @@
+layout: post
+title: Mi primer dia en la carrera 
+
 Cuando veia la carrera en internet no me imaginaque fuera ser tan interesante, 
 me parece que es una muy buena carrera hay mucho en que trbajar y muy interesante 
 lo que se hace en la carrera
