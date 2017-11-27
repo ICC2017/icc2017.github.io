@@ -4,6 +4,9 @@ title: Bienvenidos al blog de los estudiantes de nuevo ingreso de la LCC 2017-2!
 Author: Juan Pablo Soto
 ---
 
+Esta es una prueba de GIT.
+
+
 El objetivo de este blog es que los estudiantes de nuevo ingreso compartan sus experiencias, opinión sobre la carrera, anécdotas vividas durante su primer semestre, etc. 
 
 ![_config.yml]({{ site.baseurl }}/images/alumnos2017.png)
